@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DBManager_Tests' do
+  pod 'DBManager', :path => '../'
+  
+  
+end
