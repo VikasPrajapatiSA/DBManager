@@ -1,0 +1,22 @@
+{
+  "name": "DBManager",
+  "version": "0.1.0",
+  "summary": "A short description of DBManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/VikasPrajapatiSA/DBManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VikasPrajapatiSA": "vikas.prajapati@solutionanalysts.com"
+  },
+  "source": {
+    "git": "https://github.com/VikasPrajapatiSA/DBManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DBManager/Classes/**/*"
+}
